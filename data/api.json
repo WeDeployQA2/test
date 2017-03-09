@@ -1,0 +1,15 @@
+[
+    {
+        "path": "/talks/*",
+        "data": true,
+        "method": "GET"
+    },
+    {
+        "path": "/talks/*",
+        "data": true,
+        "method": ["POST","PUT","DELETE"],
+        "auth": {
+            "validator": "$auth != null"
+        }
+    }
+]

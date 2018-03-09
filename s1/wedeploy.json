@@ -1,4 +1,6 @@
 {
 	"id": "s1",
-	"foo": "bar"
+	"healthCheck": {
+		"url": "localhost:9999"
+	}
 }

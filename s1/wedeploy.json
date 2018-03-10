@@ -1,6 +1,3 @@
 {
-	"id": "s1",
-	"healthCheck": {
-		"url": "localhost:9999"
-	}
+	"id": "s1"
 }

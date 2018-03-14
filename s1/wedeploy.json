@@ -2,8 +2,8 @@
 	"id": "s1",
 	"healthCheck": {
 		"url": "localhost:9999",
-		"interval": 20,
-		"timeout": 20,
+		"interval": 5,
+		"timeout": 5,
 		"retries": 1
 	}
 }

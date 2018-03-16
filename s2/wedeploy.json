@@ -1,3 +1,4 @@
 {
-	"id": "httpd"
+	"id": "httpd",
+	"dependencies": ["s1"]
 }
